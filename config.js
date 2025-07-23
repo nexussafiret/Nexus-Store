@@ -13,5 +13,9 @@ module.exports = {
     garansiLogsChannelId: '1395576825912102932', // ID channel untuk logs garansi (menggunakan channel logs yang sama)
     testimoniChannelId: '1396269795648868392', // ID channel untuk testimoni
     statusChannelId: '1362867241695318250', // ID channel untuk status bot
-    activityLogsChannelId: '1395715844700504084' // ID channel untuk logs aktivitas member
+    activityLogsChannelId: '1395715844700504084', // ID channel untuk logs aktivitas member
+    loyaltyChannelId: '1395490657560297574', // ID channel untuk sistem loyalty
+    inventoryChannelId: '1395490657560297575', // ID channel untuk sistem inventory
+    autoModChannelId: '1395490657560297576', // ID channel untuk auto moderation
+    aiChatChannelId: '1395490657560297577' // ID channel untuk AI chat system
 }; 
